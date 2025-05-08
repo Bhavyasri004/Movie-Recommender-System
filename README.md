@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+
 # Movie Recommender System 🎥
 
 A **Content-Based Movie Recommender System** built using **Streamlit** for the frontend, **Pandas** for data processing, and **Scikit-learn** for vectorization and similarity computation. This system takes user input (a movie name), processes the data, applies a content-based recommendation algorithm, and returns top movie recommendations.
