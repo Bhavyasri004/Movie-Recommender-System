@@ -29,9 +29,3 @@ A **Content-Based Movie Recommender System** built using **Streamlit** for the f
   - The system uses **TF-IDF vectorization** to convert movie descriptions and features into numerical representations.
   - **Cosine similarity** is computed between the vectors to suggest movies with the highest content-based similarity.
 
-## Installation 🛠️
-
-### 1. Clone the Repository:
-```bash
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
